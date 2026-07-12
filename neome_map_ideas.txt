@@ -1,0 +1,46 @@
+SPOILER ALERT: this files contains the themes for future locations. If you use NEOME, be
+aware that most of them will be added sooner or later. If you still want to see them,
+scroll down
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[priority 0]
+city
+jungle
+night city?
+tree garden?
+Japan
+
+# Lower priority means Carro will get to those later
+[priority -1]
+space
+moon
+mars
+milky way?
