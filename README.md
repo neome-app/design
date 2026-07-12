@@ -1,7 +1,7 @@
 # NEOME design
 
-> [!Spoiler Alert]
-> this repository contains arts of future locations, so be don't view it, if you're not ok with that
+> [!CAUTION]
+> SPOILER ALERT! this repository contains arts of future locations, so be don't view it, if you're not ok with that
 
 in this repository you can find the design of the NEOME app, arts of locations, ideas for locations, the arts of Carro, and footnotes with authors, references, software used etc.
 
