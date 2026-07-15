@@ -1,0 +1,6 @@
+- We work in cycles - we aim to make 1 art every 6 days, however, since there are several contibutors, there every contibutor will have 6 * \[contibutors number] days to work per cycle
+- At the beginning, every contibutor gets the theme to draw a locations on
+- First 5 * \[contibutors number] days, we draw the locations
+- By the end everyone should submit their work, and receive a location drawn by a different person
+- The remaining \[contibutors number] days, everyone should connect the location they were sent with the location they drew
+- At the end of the cycle the organiser should be able to connect the locations, so that there are \[contibutors count] locations
